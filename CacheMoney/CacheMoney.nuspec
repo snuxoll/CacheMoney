@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CacheMoney</id>
+    <version>0.1.0</version>
+    <title>CacheMoney</title>
+    <authors>Stefan Nuxoll</authors>
+    <owners>Stefan Nuxoll</owners>
+    <licenseUrl>https://github.com/snuxoll/CacheMoney/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://www.github.com/snuxoll/CacheMoney</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple library for implementing data caching</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2015 Stefan Nuxoll</copyright>
+    <tags>cache</tags>
+  </metadata>
+</package>
